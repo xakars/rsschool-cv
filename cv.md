@@ -11,7 +11,7 @@
 ### Skills and Proficiency:
 - HTML, CSS, 
 - Git, GitHub
-- Python, SQL
+- Python, Django, SQL
 - Docker, K8s
 - Jira, TeamCity
 
