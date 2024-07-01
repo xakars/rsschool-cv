@@ -1,1 +1,1 @@
-# rsschool-cv
+https://xakars.github.io/rsschool-cv/cv
